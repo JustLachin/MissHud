@@ -43,19 +43,19 @@ Perfect for streamers who only have **one monitor** and don't want to miss impor
 Here are some examples of how MissHud looks in action:
 
 ### Chat Overlay Example
-![Chat Overlay in Game](https://www.missxss.com.tr/assets/media/chat-overlay-example.webp)  
+![Chat Overlay in Game](https://www.missxss.com.tr/assets/media/misshud.webp)  
 *Transparent chat displayed in the corner while playing*
 
 ### Alert Display Example
-![Alert Popup Example](https://www.missxss.com.tr/assets/media/alert-example.webp)  
+![Alert Popup Example](https://www.missxss.com.tr/assets/media/misshud_alert.webp)  
 *Donation/follow/sub alerts appearing on top of gameplay*
 
 ### Another Chat View
-![Streaming Chat Overlay](https://www.missxss.com.tr/assets/media/chat-widget.webp)  
+![Streaming Chat Overlay](https://www.missxss.com.tr/assets/media/misshud_chat.webp)  
 *Live chat overlay in action during gameplay*
 
 ### Alert Showcase
-![In-game Alerts](https://www.missxss.com.tr/assets/media/alert-display.webp)  
+![In-game Alerts](https://www.missxss.com.tr/assets/media/misshud2.webp)  
 *Beautiful alert animations integrated into your game view*
 
 *(Note: If any image doesn't load, check the [official MissHud page](https://www.missxss.com.tr/page/misshud) for the latest visuals)*
