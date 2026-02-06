@@ -4,7 +4,7 @@
 Chat + Alerts directly on your game screen – no second monitor needed!
 
 <div align="center">
-  <a href="https://www.missxss.com.tr/api/misshud.exe" style="display: inline-block; padding: 12px 32px; background-color: #0066cc; color: white; text-decoration: none; border-radius: 6px; font-weight: bold; font-size: 1.2em; margin: 20px 0;">
+  <a href="https://www.missxss.com.tr/#download" style="display: inline-block; padding: 12px 32px; background-color: #0066cc; color: white; text-decoration: none; border-radius: 6px; font-weight: bold; font-size: 1.2em; margin: 20px 0;">
     Download MissHud (Windows)
   </a>
   <br>
