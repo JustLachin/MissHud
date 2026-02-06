@@ -3,7 +3,7 @@
 **Overlay System for Single Monitor Streamers**  
 Chat + Alerts directly on your game screen – no second monitor needed!
 
-[![MissHud Logo / Banner](https://www.missxss.com.tr/assets/images/misshud-banner.jpg)](https://www.missxss.com.tr/page/misshud)  
+[![MissHud Logo / Banner](https://www.missxss.com.tr/assets/media/miss.webp)](https://www.missxss.com.tr/page/misshud)  
 *(If the banner image doesn't load, visit the [official page](https://www.missxss.com.tr/page/misshud) for visuals)*
 
 ## What is MissHud?
