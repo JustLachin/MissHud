@@ -5,6 +5,14 @@ Chat + Alerts directly on your game screen – no second monitor needed!
 
 ![MissHud Banner](https://www.missxss.com.tr/assets/media/miss.webp)
 
+<div align="center">
+  <a href="https://www.missxss.com.tr/api/misshud.exe" style="display: inline-block; padding: 12px 32px; background-color: #0066cc; color: white; text-decoration: none; border-radius: 6px; font-weight: bold; font-size: 1.2em; margin: 20px 0;">
+    Download MissHud (Windows)
+  </a>
+  <br>
+  <small>(Windows 10 / 11 only – Free)</small>
+</div>
+
 *(If the banner doesn't load, visit the [official page](https://www.missxss.com.tr/page/misshud))*
 
 ## What is MissHud?
@@ -74,21 +82,14 @@ Works best with modern titles in **borderless windowed** or **windowed** mode:
 
 ## How to Use
 
-1. **Download** the latest version:  
-   [Download misshud.exe](https://www.missxss.com.tr/api/misshud.exe)  
-   (Windows 10 / 11 only)
-
-2. Run `misshud.exe` — it starts silently in the background
-
-3. Look for the **MissHud icon** in your system tray (near the clock)
-
+1. **Download** the latest version (link yukarıda da mevcut)  
+2. Run `misshud.exe` — it starts silently in the background  
+3. Look for the **MissHud icon** in your system tray (near the clock)  
 4. **Right-click** the tray icon to:  
    - Add new chat/alert overlays (created via MissXss platform)  
    - Customize position, size, transparency, language  
-   - Show/hide overlays
-
-5. Launch your game in **borderless windowed** or **windowed** mode
-
+   - Show/hide overlays  
+5. Launch your game in **borderless windowed** or **windowed** mode  
 6. Enjoy streaming while seeing chat & alerts without leaving the game!
 
 ## Requirements
